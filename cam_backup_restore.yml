@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  connection: local
+  sudo: yes
+
+  roles:
+    - cam_backup_restore
