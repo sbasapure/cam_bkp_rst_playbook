@@ -1,0 +1,4 @@
+bkp_act: backup
+# If you want to backup CAM then you provide value as "backup" oe else leave blank.
+rst_act: 
+# If you want to restore the recent backp on CAM then you provide value as "restore" oe else leave blank.
